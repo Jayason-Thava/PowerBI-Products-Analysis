@@ -79,6 +79,6 @@ In Power BI Query Editor, the following data transformation steps were performed
 ## 📸 Dashboard Preview  
 <img width="1110" height="627" alt="image" src="https://github.com/user-attachments/assets/00b2b0b5-c8fb-49f7-a467-640b4bb4a0d5" />
   
-Example:  
+Use this link to see the dashboard:  
 ```markdown
 https://app.powerbi.com/view?r=eyJrIjoiOTljNTE0MWQtYjdmMC00YzdiLWFlOWUtN2E2YTQ1ZTkwZjZkIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9
